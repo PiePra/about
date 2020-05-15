@@ -1,5 +1,5 @@
 # about me
-##skills
+## skills
 ![timeline](figures/tagcloud.png)
-##timeline
+## timeline
 ![timeline](figures/timeline.png)
