@@ -1,4 +1,5 @@
 # about me
-
-![timeline](figures/tagcloud.png){:height="50%" width="50%"}
+##skills
+![timeline](figures/tagcloud.png)
+##timeline
 ![timeline](figures/timeline.png)
