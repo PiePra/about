@@ -1,3 +1,3 @@
 # about me
 
-![timeline(figures/timeline.png)
+![timeline](figures/timeline.png)
