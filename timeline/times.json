@@ -1,17 +1,19 @@
 {
     "labels": [
-        "Mittlere Reife",
         "Fachabitur IT - Fokus",
         "Qualifizierungsbaustein \nBuerokommunikation",
         "Ausbildung zum Fachinformatiker \nFachrichtung Systemintegration",
+        "Systemadministrator",
+        "Junior Network\nAdministrator",
         "B. Sc. Wirtschaftsinformatik (tbd)",
         "M. Sc. Big Data & Business Analytics (tbd)"
     ],
     "dates": [
-        "2010-08-01",
         "2012-08-01",
         "2014-08-01",
         "2017-08-01",
+        "2017-08-31",
+        "2018-08-01",
         "2020-08-01",
         "2023-02-01"
     ]

@@ -12,7 +12,6 @@ with open("./timeline/times.json", 'r') as f:
     dates = [date for date in json['dates']]
     labels = [label for label in json['labels']]
 
-print(labels)
 
 # Convert date strings (e.g. 2014-10-18) to datetime
 dates = [datetime.strptime(d, "%Y-%m-%d") for d in dates]
